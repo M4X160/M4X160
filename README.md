@@ -14,5 +14,5 @@ Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN Mar de
 -  **Arquitectura de Datos:** Profundizando en el diseño de bases de datos relacionales.
 
 ### Cómo contactarme
-- www.linkedin.com/in/maximiliano-rodriguez-lagos-12b332231
+- www.linkedin.com/in/maximiliano-rodriguez-lagos
 - Correo: maxirodriguez160@gmail.com
